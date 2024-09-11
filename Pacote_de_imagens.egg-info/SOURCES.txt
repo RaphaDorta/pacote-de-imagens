@@ -1,0 +1,9 @@
+setup.py
+Pacote_de_imagens.egg-info/PKG-INFO
+Pacote_de_imagens.egg-info/SOURCES.txt
+Pacote_de_imagens.egg-info/dependency_links.txt
+Pacote_de_imagens.egg-info/top_level.txt
+pacote_de_imagens.egg-info/PKG-INFO
+pacote_de_imagens.egg-info/SOURCES.txt
+pacote_de_imagens.egg-info/dependency_links.txt
+pacote_de_imagens.egg-info/top_level.txt
